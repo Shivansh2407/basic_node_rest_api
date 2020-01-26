@@ -1,5 +1,3 @@
-**
-
 ## REST API USING NODE JS
 
 [Codepen Link](https://codepen.io/Shivansh_Srivastava/pen/OJPqqVr?editors=1010) - Use this link to Checkout what the Console logs after get and post requests.
