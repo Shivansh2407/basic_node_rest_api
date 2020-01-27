@@ -28,3 +28,4 @@ exports.createPost = (req, res, next) => {
         }
     })
 };
+//Creating a POST Endpoint
